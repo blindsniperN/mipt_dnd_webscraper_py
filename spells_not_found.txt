@@ -1,0 +1,42 @@
+Awaken
+Blindness Deafness
+Blink
+Clairvoyance
+Command
+Commune
+Cure Wounds
+Demiplane
+Divination
+Enlarge Reduce
+Entangle
+Etherealness
+Fear
+Feather Fall
+Fireball
+Fly
+Gaseous Form
+Gate
+Harm
+Heal
+Healing Word
+Heroism
+Invisibility
+Jump
+Knock
+Light
+Lightning Bolt
+Magic Missile
+Mass Heal
+Polymorph
+Resistance
+Resurrection
+Shield
+Slow
+Spider Climb
+Suggestion
+Telekinesis
+Teleport
+Water Breathing
+Water Walk
+Web
+Wish
