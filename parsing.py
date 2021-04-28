@@ -17,18 +17,26 @@ if __name__ == '__main__':
     f = open('spells_res.txt', "r")
     contents = f.read().splitlines()
     f.close()
+    f = open('spells_not_found.txt', "r")
+    not_found = set(f.read().splitlines())
+    f.close()
+    f = open('markov_spell_material.txt', "w")
     for i in contents:
-        r = Retriever()
-        search_eb = r.get_result_obj(i)
-        p = Parser(search_eb)
-        try:
+        if i not in not_found:
+            r = Retriever()
+            search_eb = r.get_result_obj(i)
+            p = Parser(search_eb)
             p.gather_attributes()
-        except:
-            print(i)
+            try:
+                f.write(p.details['Material'])
+                f.write('.\n')
+            except:
+                print(i)
     print('Finita La Comedia')
+    f.close()
     '''
     r = Retriever()
-    search_ab = r.get_result_obj("Bless")
-    p = Parser(search_ab)
+    search_eb = r.get_result_obj("Acid Arrow")
+    p = Parser(search_eb)
     p.gather_attributes()
-    print('Fuck')
+    print('Finita La Comedia')

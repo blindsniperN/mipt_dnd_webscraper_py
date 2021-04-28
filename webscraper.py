@@ -50,7 +50,7 @@ class Retriever:  # вытаскиваем данные
         return 'href="/' in tag.decode_contents()
 
 
-class Parser: # парсим результаты
+class Parser:  # парсим результаты
     def __init__(self, response_obj):
         self.response_obj = response_obj
         self.soup = BeautifulSoup(response_obj.content, features="html.parser")
