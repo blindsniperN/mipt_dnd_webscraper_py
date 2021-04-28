@@ -28,26 +28,21 @@ class Retriever:  # вытаскиваем данные
             raise Exception('(Expected 200 response status code, received '
                             f'{response.status_code} instead.)')
         if response.url != url:  # Если мы получили всё в одной ссылке
-            # print(f'(Redirected to {response.url})')
             return response
         else:  # Если выводит список
             return self.get_result_links(response, search_term)
 
     def get_result_links(self, response, search_term):
-        # Find all <li> tags in the body of the response and wrap in list()
         list_items = list(BeautifulSoup(response.content,
                                         features="html.parser").find_all('li'))
         response_links = []
         for li in list_items:
-            if self.has_uri(li):  # List item contains a URI
+            if self.has_uri(li):
                 text = li.contents[1].get_text()
                 uri = li.a.get('href')
-                # If one of the links matches the search term, return it
                 if text.lower() == search_term.lower():
                     return requests.get(li.url)
-                # Otherwise, add the resource to a list to return
                 response_links.append(HyperLink(text=text, link=uri))
-        print(f'(Unable to find an exact match for {search_term}.)')
         return response_links
 
     @staticmethod
@@ -73,6 +68,5 @@ class Parser: # парсим результаты
             self.add_attribute(all_keys[i].string, all_values[i].string)
 
     def gather_pagecontent(self):
-        #  Проверить как подходит для персонажей/монстров
         pagecontent = self.soup.find(id='pagecontent').text
         self.add_attribute('description', pagecontent)

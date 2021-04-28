@@ -13,6 +13,7 @@ if __name__ == '__main__':
     print(p.details['Duration'])
     print(p.details['Classes'])
     '''
+    '''
     f = open('spells_res.txt', "r")
     contents = f.read().splitlines()
     f.close()
@@ -25,3 +26,9 @@ if __name__ == '__main__':
         except:
             print(i)
     print('Finita La Comedia')
+    '''
+    r = Retriever()
+    search_ab = r.get_result_obj("Bless")
+    p = Parser(search_ab)
+    p.gather_attributes()
+    print('Fuck')
