@@ -1,6 +1,6 @@
 from app_module import app
 from flask import render_template, request
-from webscraper import *
+# from webscraper import *
 from helping_functions import *
 from random import randint, choice
 
@@ -10,7 +10,7 @@ from random import randint, choice
 def index():
     return render_template('index.html')
 
-
+'''
 @app.route('/spells/', methods=['post', 'get'])
 def spells():
     if request.method == 'POST':
@@ -29,7 +29,7 @@ def spells():
             return render_template('card_template_test.html', spell=spellname, ct=p.details['Casting Time'],
                                    rg=p.details['Range'], cmp=p.details['Components'], dr=p.details['Duration'])
     return render_template('spell.html')
-
+'''
 
 @app.route('/random_monster/')
 def random_monster():
