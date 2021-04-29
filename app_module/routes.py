@@ -4,13 +4,13 @@ from flask import render_template, request
 from helping_functions import *
 from random import randint, choice
 
-
+'''
 @app.route('/')
 @app.route('/index/')
 def index():
     return render_template('index.html')
 
-'''
+
 @app.route('/spells/', methods=['post', 'get'])
 def spells():
     if request.method == 'POST':
@@ -31,6 +31,9 @@ def spells():
     return render_template('spell.html')
 '''
 
+
+@app.route('/')
+@app.route('/index/')
 @app.route('/random_monster/')
 def random_monster():
     adjectives = get_list('adjectives')
