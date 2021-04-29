@@ -1,1 +1,1 @@
-web: bundle exec monster-generator server -p $PORT
+web: gunicorn main:app
