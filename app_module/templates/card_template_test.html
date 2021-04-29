@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title> {{ spell }} </title>
+    <style type="text/css">
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            vertical-align: top;
+        }
+        table {
+            margin: 2px;
+        }
+        .print {
+            page-break-after:always;
+        }
+        .spell_name {
+            font-size: 1em;
+            font-weight: bold;
+        }
+        .school_name {
+            font-size: 1em;
+            font-style: italic;
+        }
+        .attr_header {
+            font-size: 0.9em;
+            font-weight: bold;
+        }
+        .attr_body {
+            font-size: 0.9em;
+        }
+        .level {
+            text-align:right;
+            width:65px;
+        }
+        .scalable_text {
+            font-size: 0.9em;
+            /*line-height: 1em;*/
+        }
+    </style>
+</head>
+
+<body style="margin: 0px;" onload="scaleText();">
+<div class="fixed_div print" style="width: 2in; border: 1px solid black; ">
+    <div class="scaled_div">
+        <table>
+            <tr>
+                <td>
+                    <span class="spell_name"> {{ spell }} </span><br>
+                    <span class="school_name">Enchantment</span>
+                </td>
+                <td class="level">Level: 1</td>
+            </tr>
+            <tr>
+                <td colspan="2"><span class="attr_header">Casting Time: </span><span class="attr_body"> {{ ct }} </span></td>
+            </tr>
+            <tr>
+                <td colspan="2"><span class="attr_header">Range: </span><span class="attr_body"> {{ rg }} </span></td>
+            </tr>
+            <tr>
+                <td colspan="2"><span class="attr_header">Components: </span><span class="attr_body"> {{ cmp }} </span></td>
+            </tr>
+            <tr>
+                <td colspan="2"><span class="attr_header">Duration: </span><span class="attr_body"> {{ dr }} </span></td>
+            </tr>
+            <tr>
+                <td colspan="2"><span class="attr_header">Duration: </span><span class="attr_body"> {{ dr }} </span></td>
+            </tr>
+        </table>
+    </div>
+</div>

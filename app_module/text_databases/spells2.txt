@@ -1,0 +1,2080 @@
+
+5 
+necromancy 
+1  
+touch 
+
+7 days
+Contingency
+
+6 
+ 
+10 minute
+self 
+
+10 days
+Continual Flame
+
+2 
+ 
+1  
+touch 
+
+until dispelled
+Control Water
+
+4 
+transmutation 
+1  
+300 feet 
+
+up to 10 minutes
+Control Weather
+
+8 
+transmutation 
+10 minute
+self (5-mile radius) 
+
+up to 8 hours
+Counterspell
+
+3 
+abjuration 
+1 re, which you take when you see a creature within  of you casting a spell 
+ 
+
+
+Create Food and Water
+
+3 
+conjuration 
+1  
+ 
+
+
+Create Undead
+
+6 
+necromancy 
+1 minute 
+10 feet 
+
+
+Create or Destroy Water
+
+1 
+transmutation 
+1  
+ 
+
+
+Creation
+
+5 
+illusion 
+1 minute 
+ 
+
+special
+Cure Wounds
+
+1 
+ 
+1  
+touch 
+
+
+Dancing Lights
+
+ 
+ 
+1  
+ 
+
+up to 1 minute
+Darkness
+
+2 
+ 
+1  
+ 
+
+up to 10 minutes
+Darkvision
+
+2 
+transmutation 
+1  
+touch 
+
+8 hours
+Daylight
+
+3 
+ 
+1  
+ 
+
+1 hour
+Death Ward
+
+4 
+abjuration 
+1  
+touch 
+
+8 hours
+Delayed Blast Fireball
+
+7 
+ 
+1  
+ 
+
+up to 1 minute
+Demiplane
+
+8 
+conjuration 
+1  
+ 
+
+1 hour
+Detect Evil and Good
+
+1 
+divination 
+1  
+self 
+
+up to 10 minutes
+Detect Magic
+
+1 
+divination  
+1  
+self 
+
+up to 10 minutes
+Detect Poison and Disease
+
+1 
+divination  
+1  
+self 
+
+up to 10 minutes
+Detect Thoughts
+
+2 
+divination 
+1  
+self 
+
+up to 1 minute
+Dimension Door
+
+4 
+conjuration 
+1  
+500 feet 
+
+
+Disguise Self
+
+1 
+illusion 
+1  
+self 
+
+1 hour
+Disintegrate
+
+6 
+transmutation 
+1  
+ 
+
+
+Dispel Evil and Good
+
+5 
+abjuration 
+1  
+self 
+
+up to 1 minute
+Dispel Magic
+
+3 
+abjuration 
+1  
+ 
+
+
+Divination
+
+4 
+divination  
+1  
+self 
+
+
+Divine Favor
+
+1 
+ 
+1 bonu 
+self 
+
+up to 1 minute
+Divine Word
+
+7 
+ 
+1 bonu 
+ 
+
+
+Dominate Beast
+
+4 
+enchantment 
+1  
+ 
+
+up to 1 minute
+Dominate Monster
+
+8 
+enchantment 
+1  
+ 
+
+up to 1 hour
+Dominate Person
+
+5 
+enchantment 
+1  
+ 
+
+up to 1 minute
+Dream
+
+5 
+illusion 
+1 minute 
+special 
+
+8 hours
+Druidcraft
+
+ 
+transmutation 
+1  
+ 
+
+
+Earthquake
+
+8 
+ 
+1  
+500 feet 
+
+up to 1 minute
+Eldritch Blast
+
+ 
+ 
+1  
+ 
+
+
+Enhance Ability
+
+2 
+transmutation 
+1  
+touch 
+
+up to 1 hour
+Enlarge Reduce
+
+2 
+transmutation 
+1  
+ 
+
+up to 1 minute
+Enlarge Reduce
+
+2 
+transmutation 
+1  
+30 ft 
+
+up to 1 minute
+Entangle
+
+1 
+conjuration 
+1  
+ 
+
+up to 1 minute
+Enthrall
+
+2 
+enchantment 
+1  
+ 
+
+1 minute
+Etherealness
+
+7 
+transmutation 
+1  
+self 
+
+up to 8 hours
+ExpeditiouRetreat
+
+1 
+transmutation 
+1 bonu 
+self 
+
+up to 10 minutes
+Eyebite
+
+6 
+necromancy 
+1  
+self 
+
+up to 1 minute
+Fabricate
+
+4 
+transmutation 
+10 minute
+ 
+
+
+Faerie Fire
+
+1 
+ 
+1  
+ 
+
+up to 1 minute
+Faithful Hound
+
+4 
+conjuration 
+1  
+ 
+
+8 hours
+False Life
+
+1 
+necromancy 
+1  
+self 
+
+1 hour
+Fear
+
+3 
+illusion 
+1  
+self (30-foot radius) 
+
+up to 1 minute
+Feather Fall
+
+1 
+transmutation 
+1 re, which you take when you or a creature within  of you fall
+ 
+
+1 minute
+Feeblemind
+
+8 
+enchantment 
+1  
+ 
+
+
+Find Familiar
+
+1 
+conjuration  
+1 hour 
+10 feet 
+
+
+Find Steed
+
+2 
+conjuration 
+10 minute
+ 
+
+
+Find Traps
+
+2 
+divination 
+1  
+ 
+
+
+Find the Path
+
+6 
+divination 
+1 minute 
+self 
+
+up to 1 day
+Finger of Death
+
+7 
+necromancy 
+1  
+ 
+
+
+Fire Bolt
+
+ 
+ 
+1  
+ 
+
+
+Fire Shield
+
+4 
+ 
+1  
+self 
+
+10 minutes
+Fire Storm
+
+7 
+ 
+1  
+ 
+
+
+Fireball
+
+3 
+ 
+1  
+ 
+
+
+Flame Blade
+
+2 
+ 
+1 bonu 
+self 
+
+up to 10 minutes
+Flame Strike
+
+5 
+ 
+1  
+ 
+
+
+Flaming Sphere
+
+2 
+conjuration 
+1  
+ 
+
+up to 1 minute
+Flesh to Stone
+
+6 
+transmutation 
+1  
+ 
+
+up to 1 minute
+Floating Disk
+
+1 
+conjuration  
+1  
+ 
+
+1 hour
+Fly
+
+3 
+transmutation 
+1  
+touch 
+
+up to 10 minutes
+Fog Cloud
+
+1 
+conjuration 
+1  
+ 
+
+up to 1 hour
+Forbiddance
+
+6 
+abjuration  
+10 minute
+touch 
+
+1 day
+Forcecage
+
+7 
+ 
+1  
+100 feet 
+
+1 hour
+Foresight
+
+9 
+divination 
+1 minute 
+touch 
+
+8 hours
+Freedoof Movement
+
+4 
+abjuration 
+1  
+touch 
+
+1 hour
+Freezing Sphere
+
+6 
+ 
+1  
+300 feet 
+
+
+GaseouForm
+
+3 
+transmutation 
+1  
+touch 
+
+up to 1 hour
+Gate
+
+9 
+conjuration 
+1  
+ 
+
+up to 1 minute
+Geas
+
+5 
+enchantment 
+1 minute 
+ 
+
+30 days
+Gentle Repose
+
+2 
+necromancy  
+1  
+touch 
+
+10 days
+Giant Insect
+
+4 
+transmutation 
+1  
+ 
+
+up to 10 minutes
+Glibness
+
+8 
+transmutation 
+1  
+self 
+
+1 hour
+Globe of Invulnerability
+
+6 
+abjuration 
+1  
+self (10-foot radius) 
+
+up to 1 minute
+Glyph of Warding
+
+3 
+abjuration 
+1 hour 
+touch 
+
+until dispelled or triggered
+Goodberry
+
+1 
+transmutation 
+1  
+touch 
+
+
+Grease
+
+1 
+conjuration 
+1  
+ 
+
+1 minute
+Greater Invisibility
+
+4 
+illusion 
+1  
+touch 
+
+up to 1 minute
+Greater Restoration
+
+5 
+abjuration 
+1  
+touch 
+
+
+Guardian of Faith
+
+4 
+conjuration 
+1  
+ 
+
+8 hours
+Guardand Wards
+
+6 
+abjuration 
+10 minute
+touch 
+
+24 hours
+Guidance
+
+ 
+divination 
+1  
+touch 
+
+up to 1 minute
+Guiding Bolt
+
+1 
+ 
+1  
+ 
+
+1 round
+Gust of Wind
+
+2 
+ 
+1  
+self (60-foot line) 
+
+up to 1 minute
+Hallow
+
+5 
+ 
+24 hour
+touch 
+
+until dispelled
+Hallucinatory Terrain
+
+4 
+illusion 
+10 minute
+300 feet 
+
+24 hours
+Harm
+
+6 
+necromancy 
+1  
+ 
+
+
+Haste
+
+3 
+transmutation 
+1  
+ 
+
+up to 1 minute
+Heal
+
+6 
+ 
+1  
+ 
+
+
+Healing Word
+
+1 
+ 
+1 bonu 
+ 
+
+
+Heat Metal
+
+2 
+transmutation 
+1  
+ 
+
+up to 1 minute
+Hellish Rebuke
+
+1 
+ 
+1 re, which you take in response to being damaged by a creature within  of you that you can see 
+ 
+
+
+Heroes' Feast
+
+6 
+conjuration 
+10 minute
+ 
+
+
+Heroism
+
+1 
+enchantment 
+1  
+touch 
+
+up to 1 minute
+HideouLaughter
+
+1 
+enchantment 
+1  
+ 
+
+up to 1 minute
+Hold Monster
+
+5 
+enchantment 
+1  
+ 
+
+up to 1 minute
+Hold Person
+
+2 
+enchantment 
+1  
+ 
+
+up to 1 minute
+Holy Aura
+
+8 
+abjuration 
+1  
+self 
+
+up to 1 minute
+Hunter'Mark
+
+1 
+divination 
+1 bonu 
+ 
+
+up to 1 hour
+Hypnotic Pattern
+
+3 
+illusion 
+1  
+ 
+
+up to 1 minute
+Ice Storm
+
+4 
+ 
+1  
+300 feet 
+
+
+Identify
+
+1 
+divination  
+1 minute 
+touch 
+
+
+Illusory Script
+
+1 
+illusion  
+1 minute 
+touch 
+
+10 days
+Imprisonment
+
+9 
+abjuration 
+1 minute 
+ 
+
+until dispelled
+Incendiary Cloud
+
+8 
+conjuration 
+1  
+ 
+
+up to 1 minute
+Inflict Wounds
+
+1 
+necromancy 
+1  
+touch 
+
+
+Insect Plague
+
+5 
+conjuration 
+1  
+300 feet 
+
+up to 10 minutes
+Instant Summons
+
+6 
+conjuration  
+1 minute 
+touch 
+
+until dispelled
+Invisibility
+
+2 
+illusion 
+1  
+touch 
+
+up to 1 hour
+Irresistible Dance
+
+6 
+enchantment 
+1  
+ 
+
+up to 1 minute
+Jump
+
+1 
+transmutation 
+1  
+touch 
+
+1 minute
+Knock
+
+2 
+transmutation 
+1  
+ 
+
+
+Legend Lore
+
+5 
+divination 
+10 minute
+self 
+
+
+Lesser Restoration
+
+2 
+abjuration 
+1  
+touch 
+
+
+Levitate
+
+2 
+transmutation 
+1  
+ 
+
+up to 10 minutes
+Light
+
+ 
+ 
+1  
+touch 
+
+1 hour
+Lightning Bolt
+
+3 
+ 
+1  
+self (100-foot line) 
+
+
+Locate Animalor Plants
+
+2 
+divination  
+1  
+self 
+
+
+Locate Creature
+
+4 
+divination 
+1  
+self 
+
+up to 1 hour
+Locate Object
+
+2 
+divination 
+1  
+self 
+
+up to 10 minutes
+Longstrider
+
+1 
+transmutation 
+1  
+touch 
+
+1 hour
+Mage Armor
+
+1 
+abjuration 
+1  
+touch 
+
+8 hours
+Mage Hand
+
+ 
+conjuration 
+1  
+ 
+
+1 minute
+Magic Circle
+
+3 
+abjuration 
+1 minute 
+10 feet 
+
+1 hour
+Magic Jar
+
+6 
+necromancy 
+1 minute 
+self 
+
+until dispelled
+Magic Missile
+
+1 
+ 
+1  
+ 
+
+
+Magic Mouth
+
+2 
+illusion  
+1 minute 
+ 
+
+until dispelled
+Magic Weapon
+
+2 
+transmutation 
+1 bonu 
+touch 
+
+up to 1 hour
+Magnificent Mansion
+
+7 
+conjuration 
+1 minute 
+300 feet 
+
+24 hours
+Major Image
+
+3 
+illusion 
+1  
+ 
+
+up to 10 minutes
+MasCure Wounds
+
+5 
+ 
+1  
+ 
+
+
+MasHeal
+
+9 
+ 
+1  
+ 
+
+
+MasHealing Word
+
+3 
+ 
+1 bonu 
+ 
+
+
+MasSuggestion
+
+6 
+enchantment 
+1  
+ 
+
+24 hours
+Maze
+
+8 
+conjuration 
+1  
+ 
+
+up to 10 minutes
+Meld into Stone
+
+3 
+transmutation  
+1  
+touch 
+
+8 hours
+Mending
+
+ 
+transmutation 
+1 minute 
+touch 
+
+
+Message
+
+ 
+transmutation 
+1  
+ 
+
+1 round
+Meteor Swarm
+
+9 
+ 
+1  
+1 mile 
+
+
+Mind Blank
+
+8 
+abjuration 
+1  
+touch 
+
+24 hours
+Minor Illusion
+
+ 
+illusion 
+1  
+ 
+
+1 minute
+Mirage Arcane
+
+7 
+illusion 
+10 minute
+sight 
+
+10 days
+Mirror Image
+
+2 
+illusion 
+1  
+self 
+
+1 minute
+Mislead
+
+5 
+illusion 
+1  
+self 
+
+up to 1 hour
+Misty Step
+
+2 
+conjuration 
+1 bonu 
+self 
+
+
+Modify Memory
+
+5 
+enchantment 
+1  
+ 
+
+up to 1 minute
+Moonbeam
+
+2 
+ 
+1  
+ 
+
+up to 1 minute
+Move Earth
+
+6 
+transmutation 
+1  
+ 
+
+up to 2 hours
+Nondetection
+
+3 
+abjuration 
+1  
+touch 
+
+8 hours
+Paswithout Trace
+
+2 
+abjuration 
+1  
+self 
+
+up to 1 hour
+Passwall
+
+5 
+transmutation 
+1  
+ 
+
+1 hour
+Phantasmal Killer
+
+4 
+illusion 
+1  
+ 
+
+up to 1 minute
+PhantoSteed
+
+3 
+illusion  
+1 minute 
+ 
+
+1 hour
+Planar Ally
+
+6 
+conjuration 
+10 minute
+ 
+
+
+Planar Binding
+
+5 
+abjuration 
+1 hour 
+ 
+
+24 hours
+Plane Shift
+
+7 
+conjuration 
+1  
+touch 
+
+
+Plant Growth
+
+3 
+transmutation 
+1  or 8 hour
+ 
+
+
+Poison Spray
+
+ 
+conjuration 
+1  
+10 feet 
+
+
+Polymorph
+
+4 
+transmutation 
+1  
+ 
+
+concentration, up to 1 hour
+Power Word Kill
+
+9 
+enchantment 
+1  
+ 
+
+
+Power Word Stun
+
+8 
+enchantment 
+1  
+ 
+
+
+Prayer of Healing
+
+2 
+ 
+10 minute
+ 
+
+
+Prestidigitation
+
+ 
+transmutation 
+1  
+10 feet 
+
+up to 1 hour
+Prismatic Spray
+
+7 
+ 
+1  
+self (60-foot cone) 
+
+
+Prismatic Wall
+
+9 
+abjuration 
+1  
+ 
+
+10 minutes
+Private Sanctum
+
+4 
+abjuration 
+10 minute
+ 
+
+24 hours
+Produce Flame
+
+ 
+conjuration 
+1  
+self 
+
+10 minutes
+Programmed Illusion
+
+6 
+illusion 
+1  
+ 
+
+until dispelled
+Project Image
+
+7 
+illusion 
+1  
+500 mile
+
+up to 1 day
+Protection froEnergy
+
+3 
+abjuration 
+1  
+touch 
+
+up to 1 hour
+Protection froEvil and Good
+
+1 
+abjuration 
+1  
+touch 
+
+up to 10 minutes
+Protection froPoison
+
+2 
+abjuration 
+1  
+touch 
+
+1 hour
+Purify Food and Drink
+
+1 
+transmutation  
+1  
+10 feet 
+
+
+Raise Dead
+
+5 
+necromancy 
+1 hour 
+touch 
+
+
+Ray of Enfeeblement
+
+2 
+necromancy 
+1  
+ 
+
+up to 1 minute
+Ray of Frost
+
+ 
+ 
+1  
+ 
+
+
+Regenerate
+
+7 
+transmutation 
+1 minute 
+touch 
+
+1 hour
+Reincarnate
+
+5 
+transmutation 
+1 hour 
+touch 
+
+
+Remove Curse
+
+3 
+abjuration 
+1  
+touch 
+
+
+Resilient Sphere
+
+4 
+ 
+1  
+ 
+
+up to 1 minute
+Resistance
+
+ 
+abjuration 
+1  
+touch 
+
+up to 1 minute
+Resurrection
+
+7 
+necromancy 
+1 hour 
+touch 
+
+
+Reverse Gravity
+
+7 
+transmutation 
+1  
+100 feet 
+
+up to 1 minute
+Revivify
+
+3 
+necromancy 
+1  
+touch 
+
+
+Rope Trick
+
+2 
+transmutation 
+1  
+touch 
+
+1 hour
+Sacred Flame
+
+ 
+ 
+1  
+ 
+
+
+Sanctuary
+
+1 
+abjuration 
+1 bonu 
+ 
+
+1 minute
+Scorching Ray
+
+2 
+ 
+1  
+ 
+
+
+Scrying
+
+5 
+divination 
+10 minute
+self 
+
+up to 10 minutes
+Secret Chest
+
+4 
+conjuration 
+1  
+touch 
+
+
+See Invisibility
+
+2 
+divination 
+1  
+self 
+
+1 hour
+Seeming
+
+5 
+illusion 
+1  
+ 
+
+8 hours
+Sending
+
+3 
+ 
+1  
+unlimited 
+
+1 round
+Sequester
+
+7 
+transmutation 
+1  
+touch 
+
+until dispelled
+Shapechange
+
+9 
+transmutation 
+1  
+self 
+
+up to 1 hour
+Shatter
+
+2 
+ 
+1  
+ 
+
+
+Shield
+
+1 
+abjuration 
+1 re, which you take when you are hit by an attack or targeted by the magic missile spell 
+self 
+
+1 round
+Shield of Faith
+
+1 
+abjuration 
+1 bonu 
+ 
+
+up to 10 minutes
+Shillelagh
+
+ 
+transmutation 
+1 bonu 
+touch 
+
+1 minute
+Shocking Grasp
+
+ 
+ 
+1  
+touch 
+
+
+Silence
+
+2 
+illusion  
+1  
+ 
+
+up to 10 minutes
+Silent Image
+
+1 
+illusion 
+1  
+ 
+
+up to 10 minutes
+Simulacrum
+
+7 
+illusion 
+12 hour
+touch 
+
+until dispelled
+Sleep
+
+1 
+enchantment 
+1  
+ 
+
+1 minute
+Sleet Storm
+
+3 
+conjuration 
+1  
+ 
+
+up to 1 minute
+Slow
+
+3 
+transmutation 
+1  
+ 
+
+up to 1 minute
+Spare the Dying
+
+ 
+necromancy 
+1  
+touch 
+
+
+Speak with Animals
+
+1 
+divination  
+1  
+self 
+
+10 minutes
+Speak with Dead
+
+3 
+necromancy 
+1  
+10 feet 
+
+10 minutes
+Speak with Plants
+
+3 
+transmutation 
+1  
+self (30-foot radius) 
+
+10 minutes
+Spider Climb
+
+2 
+transmutation 
+1  
+touch 
+
+up to 1 hour
+Spike Growth
+
+2 
+transmutation 
+1  
+ 
+
+up to 10 minutes
+Spirit Guardians
+
+3 
+conjuration 
+1  
+self (15-foot radius) 
+
+up to 10 minutes
+Spiritual Weapon
+
+2 
+ 
+1 bonu 
+ 
+
+1 minute
+Stinking Cloud
+
+3 
+conjuration 
+1  
+ 
+
+up to 1 minute
+Stone Shape
+
+4 
+transmutation 
+1  
+touch 
+
+
+Stoneskin
+
+4 
+abjuration 
+1  
+touch 
+
+up to 1 hour
+Storof Vengeance
+
+9 
+conjuration 
+1  
+sight 
+
+up to 1 minute
+Suggestion
+
+2 
+enchantment 
+1  
+ 
+
+up to 8 hours
+Sunbeam
+
+6 
+ 
+1  
+self (60-foot line) 
+
+up to 1 minute
+Sunburst
+
+8 
+ 
+1  
+ 
+
+
+Symbol
+
+7 
+abjuration 
+1 minute 
+touch 
+
+until dispelled or triggered
+Telekinesis
+
+5 
+transmutation 
+1  
+ 
+
+up to 10 minutes
+Telepathic Bond
+
+5 
+divination  
+1  
+ 
+
+1 hour
+Teleport
+
+7 
+conjuration 
+1  
+10 feet 
+
+
+Teleportation Circle
+
+5 
+conjuration 
+1 minute 
+10 ft 
+
+1 round
+Thaumaturgy
+
+ 
+transmutation 
+1  
+ 
+
+up to 1 minute
+Thunderwave
+
+1 
+ 
+1  
+self (15-foot cube) 
+
+
+Time Stop
+
+9 
+transmutation 
+1  
+self 
+
+
+Tiny Hut
+
+3 
+  
+1 minute 
+self (10-foot-radiuhemisphere) 
+
+8 hours
+Tongues
+
+3 
+divination 
+1  
+touch 
+
+1 hour
+Transport via Plants
+
+6 
+conjuration 
+1  
+10 feet 
+
+1 round
+Tree Stride
+
+5 
+conjuration 
+1  
+self 
+
+up to 1 minute
+True Polymorph
+
+9 
+transmutation 
+1  
+ 
+
+up to 1 hour
+True Resurrection
+
+9 
+necromancy 
+1 hour 
+touch 
+
+
+True Seeing
+
+6 
+divination 
+1  
+touch 
+
+1 hour
+True Strike
+
+ 
+divination 
+1  
+ 
+
+up to 1 round
+Unseen Servant
+
+1 
+conjuration  
+1  
+ 
+
+1 hour
+Vampiric Touch
+
+3 
+necromancy 
+1  
+self 
+
+up to 1 minute
+ViciouMockery
+
+ 
+enchantment 
+1  
+ 
+
+
+Wall of Fire
+
+4 
+ 
+1  
+ 
+
+up to 1 minute
+Wall of Force
+
+5 
+ 
+1  
+ 
+
+up to 10 minutes
+Wall of Ice
+
+6 
+ 
+1  
+ 
+
+up to 10 minutes
+Wall of Stone
+
+5 
+ 
+1  
+ 
+
+up to 10 minutes
+Wall of Thorns
+
+6 
+conjuration 
+1  
+ 
+
+up to 10 minutes
+Warding Bond
+
+2 
+abjuration 
+1  
+touch 
+
+1 hour
+Water Breathing
+
+3 
+transmutation  
+1  
+ 
+
+24 hours
+Water Walk
+
+3 
+transmutation  
+1  
+ 
+
+1 hour
+Web
+
+2 
+conjuration 
+1  
+ 
+
+up to 1 hour
+Weird
+
+9 
+illusion 
+1  
+ 
+
+up to 1 minute
+Wind Walk
+
+6 
+transmutation 
+1 minute 
+ 
+
+8 hours
+Wind Wall
+
+3 
+ 
+1  
+ 
+
+up to 1 minute
+Wish
+
+9 
+conjuration 
+1  
+self 
+
+
+Word of Recall
+
+6 
+conjuration 
+1  
+5 feet 
+
+
+Zone of Truth
