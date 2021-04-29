@@ -2,23 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login</title>
+    <title>Choose what to do: </title>
 </head>
 <body>
-
-    {% if message %}
-        <p>{{ message }}</p>
-    {% endif %}
-
-    <form action="" method="post">
-        <p>
-	    <label for="name">Spell Name</label>
-	    <input type="text" name="name">
-	</p>
-	<p>
-	    <input type="submit">
-	</p>
-    </form>
-
+    <!-- <a href="{{ url_for('spells') }}"><button>Find existing spells</button></a> -->
+    <a href="{{ url_for('random_monster') }}"><button>Create random monsters</button></a>
 </body>
-</html>
